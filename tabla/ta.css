@@ -1,0 +1,35 @@
+body{
+    background-color: #000000;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 45px;
+    margin: 6%;
+    color: white;
+}
+
+table{
+    margin: auto;
+    border: 3px solid rgb(255, 255, 255);
+    color: white;
+    border-collapse: collapse;
+    text-align: center;
+    background-image: url(fonfo.jpg);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+
+th {
+    margin: auto;
+    padding: 20px;
+    border: 2px solid rgb(255, 255, 255);
+}
+
+td{
+    border: 2px solid rgb(255, 255, 255);
+    padding: 1rem;
+}
